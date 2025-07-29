@@ -16,7 +16,7 @@
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,figma,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,vue,nuxt,nest,html,css,figma,docker,aws,kubernetes,gitlab,postgresql,mysql,mongodb" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
